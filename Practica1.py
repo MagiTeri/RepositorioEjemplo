@@ -3,6 +3,7 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
+#holholholhol
 
 
 train_data = pd.read_csv(r'C:\Users\980032406\Documents\7 semestre\Reconocimiento de patrones\penguins_testing.csv')
